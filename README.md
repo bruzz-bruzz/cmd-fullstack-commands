@@ -1,5 +1,5 @@
-#Windows Terminal Commands for fullstack npm packages
-##How to setup
+# Windows Terminal Commands for fullstack npm packages
+## How to setup
 1. Download this repo into a folder called myCommands or any other valid folder name
 2. Search Edit the system environment variables in Windows Search
 3. Open it and click Environment Variables
@@ -7,16 +7,16 @@
 5. Click new and paste the folder path into the input.
 6. Click OK and Apply for all screens.
 7. Done!
-##Why I did this
+## Why I did this
 1. To make setting up projects easier and quicker without too much Googling
 2. Make setting up TypeScript less of a pain
-#Frontend packages
+# Frontend packages
 1. tailwindcss
 2. @tailwindcss/vite
 3. react-router-dom
 4. react-cookie
 5. axios
-#Backend packages
+# Backend packages
 1. @types/bcrypt
 2. @types/pg
 3. dotenv
