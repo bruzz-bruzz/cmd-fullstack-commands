@@ -7,6 +7,7 @@
 5. Click new and paste the folder path into the input.
 6. Click OK and Apply for all screens.
 7. Done!
+8. Reopen any terminal windows to be able to use the commands
 ## Why I did this
 1. To make setting up projects easier and quicker without too much Googling
 2. Make setting up TypeScript less of a pain
